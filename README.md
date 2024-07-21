@@ -1,7 +1,6 @@
 # codealpha_Age_Calculator
 
-# codealpha_Age_Calculator
-# Age Calculator
+
 
 ## Description
 
